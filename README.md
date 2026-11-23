@@ -1,6 +1,6 @@
 ### Hola, soy Alejandro
 
-Trabajo en soporte e infraestructura TI en Neiva, Colombia. Administro servidores Linux, monto laboratorios de seguridad en la nube y automatizo tareas con Python. También programo full stack, así que entiendo las aplicaciones que soporto.
+Trabajo en soporte e infraestructura TI en Colombia. Administro servidores Linux, monto laboratorios de seguridad en la nube y automatizo tareas con Python. También programo full stack, así que entiendo las aplicaciones que soporto.
 
 Estudio Análisis y Desarrollo de Software en el SENA (hasta enero de 2027) y hago mis prácticas en una consultora de sistemas. Allí automaticé con Python la descarga de comprobantes contables (más de 25 horas de trabajo manual ahorradas), apoyo la administración de servidores Linux e hice el rediseño frontend en Angular del sitio corporativo.
 
